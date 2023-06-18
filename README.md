@@ -39,8 +39,8 @@ Top Stories: Highlights significant news and achievements related to ONGC.
 Important Articles: Provides access to important articles related to ONGC's activities and contributions.
 Birthday Wishes: Celebrates birthdays of ONGC employees, including an option to send wishes.
 
-##Contributing
+## Contributing
 Contributions to the project are welcome! If you find any bugs, have feature requests, or want to improve the code, please open an issue or submit a pull request.
 
-##License
+## License
 This project is licensed under the MIT License. You are free to use, modify, and distribute the code as per the terms of the license.
